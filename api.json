@@ -11,7 +11,8 @@
 
   "define": {
     // "goog.dom.ASSUME_STANDARDS_MODE": true,
-    "goog.DEBUG": false
+    "goog.DEBUG": false,
+    "weapi.UA": ""
   },
 
   "mode": "ADVANCED",
